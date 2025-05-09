@@ -50,3 +50,57 @@ wuyanzu-group/
 ```
 ## 📮 Project Main Function Description and Screenshots
 <!-- by 管立超 -->
+
+<!-- by 陈万程-->
+
+### The main functionalities and screenshots of the programs in the directory '2023.04.23'
+
+- #### 1.py
+
+![image-20250509131308724](.\asset\2023.04.23\2023_04_23_1_py.png)
+
+This program is used to record the numbers input by the user that can be divisible by 7, and then output these numbers in reverse order. To use this program, we need to input numbers that are divisible by 7. When a number that is not divisible by 7 is input, the program will output in reverse order of the numbers that are divisible by 7 input by the user and end the program
+
+- #### 2.py
+
+![2_py.png](.\asset\2023.04.23\2_py.png)
+
+This program is used to calculate the sum of the positive numbers of the input. If we want to use this program, we need to input the total number of numbers to be input, and then input the integers in sequence. After input, the program will provide the sum of the positive numbers in the numbers input by the user
+
+- #### 3.py
+
+![3_py.png](.\asset\2023.04.23\3_py.png)
+
+This program is used to calculate the sum of all divisors of a number. When using this program, input a positive integer, and then the program will output the sum of all divisors of that number
+
+- 4.py
+
+![](./asset/2023.04.23/4_py.png)
+
+This program is used to calculate the total number of prime numbers in the specified number of digits. When using this program, users need to input an integer indicating the number of digits to be processed (for example, 3 represents three digits), and then the program will output an integer indicating the number of prime numbers within the digit range.
+
+- 5.py
+
+![](./asset/2023.04.23/5_py.png)
+
+This program is used to calculate the total cost of a piece of text. When using this program, users need to input a piece of text, and then the program will output the total cost of this text
+
+- 6.py
+
+![](./asset/2023.04.23/6_py.png)
+
+This program is used to determine whether a six-digit ticket is a "lucky ticket" (the sum of the first three digits is equal to the sum of the last three digits). When using this program, the user needs to input a six-digit number, and then the program will output "Yes" or "No".
+
+- 7.py
+
+![](./asset/2023.04.23/7_py.png)
+
+This program is used to remove all the specified punctuation marks in the text input by the user. When using this program, the user needs to input a string, and then the program will output a new string without the specified symbol
+
+- 8.py
+
+![](./asset/2023.04.23/8_py.png)
+
+This program is used to generate the Fibonacci sequence of the specified length. When using this program, users need to input a positive integer representing the length of the Fibonacci sequence to be output. Then the program will output a Fibonacci sequence separated by Spaces
+
+<!-- by 陈万程-->
